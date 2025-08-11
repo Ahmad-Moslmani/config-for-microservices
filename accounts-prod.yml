@@ -2,10 +2,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to AHM accounts related prod APIs "
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    name: "AHM MSL - Product Owner"
+    email: "ahm@ahm.com"
   onCallSupport:
     - (453) 392-48290000000000
-    - (236) 203-0384
+    - (236) 203-03840000000000
