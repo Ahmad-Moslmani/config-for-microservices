@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to AHM accounts related Linux server RabbitMQ running APIs "
+  message: "Welcome to AHM accounts related AHM Linux server RabbitMQ running APIs "
   contactDetails:
     name: "AHM MSL - Product Owner"
     email: "{cipher}cde6a236094c0399215014ab8b3711c85596a76468ca55e0c2af6ee1220ba5aa"
